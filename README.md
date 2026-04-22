@@ -45,7 +45,7 @@ insurance-predictor/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/insurance-cost-predictor.git
+git clone https://github.com/yourusername/insurance_cost_predictor.git
 cd insurance-cost-predictor
 ```
 
